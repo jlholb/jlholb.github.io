@@ -1,6 +1,6 @@
 ---
 layout: archive
-#title: "social marketing assignments"
+#title: "social marketing"
 permalink: /social-marketing-assignments/
 author_profile: true
 ---
@@ -29,7 +29,7 @@ this is my social marketing porfolio, including a link to each work i completed 
 
 [design 10](/files/designs/Design%2010.pdf): a monitoring and evaluation for a health campaign.
 
-[design 11](youtube.com/watch?v=FKGQkT3qQQg&feature=youtu.be): budget and funding presentationf for the health campaign.
+[design 11](https://www.youtube.com/watch?v=FKGQkT3qQQg): budget and funding presentationf for the health campaign.
 
 [design 12](/files/designs/Design%2012.pdf): implementation plan for the health campaign.
 
