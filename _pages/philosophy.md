@@ -17,7 +17,7 @@ what keeps us from achieving our health goals? why aren't we able to do the thin
 
  *behavior is the ultimate measure*
 
-while working as a group facilitator at a substance-use treatment center, the essence of struggle was ever present in each patients' life. the connecting thread through their lives was seldom "how do i stop drinking", but a relentless belief that they lacked the power to do so. no matter the precision with which cognitive-behavioral therapy was administered, the robust support system the patient had, or dosage of a pharmaceutical intervention, patients in the core often felt incapable. these folks knew coping mechanisms front and backwards, spent hundreds of hours in group and individual therapy, and had robust plans for their life after treatment. but, with horrifying frequency, patients' core beliefs about change were lacking.
+while working as a group facilitator at a substance-use treatment center, the essence of struggle was ever present in each patient's life. the connecting thread through their lives was seldom "how do i stop drinking", but a relentless belief that they lacked the power to do so. no matter the precision with which cognitive-behavioral therapy was administered, the robust support system the patient had, or dosage of a pharmaceutical intervention, patients in the core often felt incapable. these folks knew coping mechanisms front and backwards, spent hundreds of hours in group and individual therapy, and had robust plans for their life after treatment. but, with horrifying frequency, patients' core beliefs about change were lacking.
 
 this is at the heart of what health education must address, as knowledge is necessary, but rarely sufficient. we can measure a program by how much information it delivers, or we can measure it by whether behavior actually changes, but only the second measure matters. what a person knows, intends, or can recite is important, but we must care about the outcome. 
 
@@ -31,4 +31,4 @@ behavior change is difficult to measure, and it is measured badly more often tha
 
  *in summary*
 
- health education is at its best when it is rigorously structured. behavior is the outcome, measurement is the constraint, and the audience is a substantial stakeholder. the goal is not just to be heard, it is to be effective. as a researcher focused on weight loss and physical activity interventions, the central problem is adherence, and knowing how to best engage and convince the priority audience is critical to creating outcomes.
+ health education is at its best when it is rigorously structured. behavior is the outcome, measurement is the constraint, and the audience is a substantial stakeholder. the goal is not just to be heard, it is to be effective. as a researcher focused on weight loss and physical activity interventions, the central problem is adherence, and knowing how to best engage and understand the priority audience is critical to creating outcomes.
