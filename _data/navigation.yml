@@ -24,6 +24,10 @@ main:
 #    url: /markdown/
   - title: "philosophy"
     url: /philosophy/
-  - title: "social marketing assignments"
+
+  - title: "social marketing"
     url: /social-marketing-assignments/
+
+  - title: "conclusion"
+    url: /conclusion/
 
