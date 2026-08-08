@@ -11,7 +11,7 @@ author_profile: true
 
 what keeps us from achieving our health goals? why aren't we able to do the things we rationally know how to achieve? knowing how to live healthily, being healthy, and keeping our health is tougher than most folks would like to admit. this is why health education is so important. health education, at its core, is the practice of helping people translate what is known about health into what they actually do.
 
- the science of behavior change has, and continues to require rigorous, scientific analysis to move forward. In the face of gut feelings and anecdotal evidence, systematic analysis is the way forward.
+ the science of behavior change has, and continues to require rigorous, scientific analysis to move forward. in the face of gut feelings and anecdotal evidence, systematic analysis is the way forward.
 
  **my three health behavior pillars**
 
